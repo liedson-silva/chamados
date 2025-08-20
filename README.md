@@ -1,41 +1,57 @@
-# 🚀 FATAL SYSTEM – Gestão De Chamados
+# 🚀 FATAL SYSTEM – Gerenciamento De Chamados
 Projeto desenvolvido no **4º semestre de Análise e Desenvolvimento de Sistemas (ADS)**.  
 
 ---
 
 ## 📌 Desafio
-O desafio consiste em criar uma aplicação web, desktop e mobile para gerenciamento de chamados.
-O sistema deve permitir ao usuário criar chamados com título, descrição, categoria e prioridade, podendo revisar os dados e anexar arquivos tanto no envio quanto enquanto o chamado estiver aberto.
-Antes do envio, o sistema realiza uma checagem automática dos campos obrigatórios, alertando o usuário caso haja pendências.
-Também deve ser possível visualizar os chamados criados de acordo com o nível de acesso, e todas as informações devem ser armazenadas em banco de dados para consulta e histórico.
+O desafio consiste em criar um sistema completo de gerenciamento de chamados, disponível em web, desktop e mobile, que permita abertura, acompanhamento e consulta de chamados, incluindo anexos e validações de dados.
 
 ---
 
 ## 📋 Backlog do Produto
 ### 1. Gerenciamento de chamados
 ```
-1.a) Criar chamado:
-O sistema deve permitir que o usuário crie um novo chamado, informando título, descrição, categoria e prioridade.
-O usuário deve poder revisar os dados preenchidos antes de confirmar o envio do chamado.
-O sistema deve permitir anexar um ou mais arquivos ao chamado antes do envio e também após o chamado ter sido criado (enquanto estiver em aberto).
+1. Abrir chamado:
+O usuário deve poder criar um chamado informando título, descrição, categoria e prioridade.
+O sistema deve permitir que o usuário revise os dados antes de enviar.
+O usuário pode anexar arquivos no momento da criação ou posteriormente, enquanto o chamado estiver ativo.
 
-1.a.a) Checar chamado:
-Antes de enviar o chamado, o sistema realiza uma primeira checagem para garantir que todos os campos obrigatórios estejam preenchidos. 
-Se o sistema identificar um campo em branco, o chamado não é enviado e o funcionário é informado para preencher os dados. 
-Caso a dupla checagem seja concluída com sucesso, o funcionário envia o chamado para a equipe de suporte.
+2. Validação automática:
+Antes do envio, o sistema deve verificar se todos os campos obrigatórios estão preenchidos.
+Se algum campo estiver vazio, o chamado não pode ser enviado, e o usuário deve ser alertado.
 
-1.a.b) Anexar mais arquivos:
-Sistema permite anexar mais arquivos em um chamado já existente.
+3. Adicionar anexos posteriormente:
+O usuário pode incluir novos arquivos em um chamado já criado, enquanto ele estiver aberto.
 
-  
-1.b) Visualizar chamado:
-O sistema deve permitir que o usuário visualize os chamados criados, de acordo com o seu nível de acesso.
+4. Consultar chamados:
+O usuário pode visualizar os chamados de acordo com seu nível de acesso.
+A visualização deve incluir informações detalhadas, como título, descrição, categoria, prioridade, anexos e status.
+
+5. Histórico e acompanhamento:
+O sistema deve manter registro completo de cada chamado, incluindo alterações de status, atualizações e anexos adicionados.
+
+O usuário deve conseguir acompanhar a evolução de cada chamado.
 ```
+
+---
+
+## 📅 Tabela de Sprints
+|    Período    | Link para Documentação | Link para Vídeo no YouTube |
+| ------------- | ---------------------- | -------------------------- |
+| yy/yy - yy/yy | [Sprint 1](#)          | [Vídeo 1](#)               |
+| yy/yy - yy/yy | [Sprint 2](#)          | [Vídeo 2](#)               |
+| yy/yy - yy/yy | [Sprint 3](#)          | [Vídeo 3](#)               |
 
 ---
 
 ## 🛠️ Tecnologias
 - [Astah UML](https://astah.net "Ferramenta de modelagem visual")
 
+---
+
+## 🎓 Equipe
+| Nome                          | Papel         | GitHub                                    | LinkedIn                                                      |
+| ----------------------------- | ------------- |------------------------------------------ | ------------------------------------------------------------- |
+| Liedson De Oliveira Silva     | Desenvolvedor |[GitHub](https://github.com/liedson-silva) | [LinkedIn](https://linkedin.com/in/liedson-silva-20b78b295)   |
 
 ---
