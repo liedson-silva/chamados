@@ -30,10 +30,16 @@ Acesse o backlog através do link abaixo:
 ---
 
 ## 💡 Solução Proposta
--  Priorização e Categorização de chamados por IA
--  Capacidade da IA de propor soluções dos chamados para Equipe de TI
--  Geração de relatórios mensais, semanais e anuais dos chamados
--  Criação de Usuario pelo Admin
+O sistema utilizará **IA para priorizar e categorizar chamados**, além de **sugerir soluções automáticas** para apoio da equipe de TI. Também permitirá a **emissão de relatórios semanais, mensais e anuais** sobre o atendimento e contará com um módulo de **gerenciamento de usuários pelo administrador**.
+
+
+---
+
+## 🏃‍ DoR - Definition of Ready
+- Design no Figma
+- Diagramas e modelagem do sistema no Astah
+- Diagrama de estruturação do Banco de Dados no Br Modelo
+- Modelagem do Banco de Dados no SQL Server
 
 ---
 
