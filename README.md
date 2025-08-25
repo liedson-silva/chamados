@@ -1,7 +1,9 @@
 # 🚀 FATAL SYSTEM – Gerenciamento De Chamados
-Projeto desenvolvido no **4º semestre de Análise e Desenvolvimento de Sistemas (ADS)**.  
 
----
+<div align="center">
+  <img src="./Docs/img/logoFatalSystem.png" alt="Screenshot do sistema" width="400"/>
+</div>
+
 
 ## 📌 Desafio
 O desafio é criar um sistema de gerenciamento de chamados que utilize Inteligência Artificial (IA) para realizar a triagem automática.
@@ -14,7 +16,7 @@ Cada atendimento ficará registrado em um repositório central, garantindo hist�
 
 ## 📋 Backlog do Produto
 Acesse o backlog através do link abaixo:  
-👉 [Backlog](https://github.com/liedson-silva/chamados/blob/main/Backlog.md)
+👉 [Backlog](https://github.com/liedson-silva/chamados/blob/main/Docs/Backlog.md)
 
 ---
 
