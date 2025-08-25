@@ -4,7 +4,11 @@ Projeto desenvolvido no **4º semestre de Análise e Desenvolvimento de Sistemas
 ---
 
 ## 📌 Desafio
-O desafio consiste em criar um sistema completo de gerenciamento de chamados, disponível em web, desktop e mobile, que permita abertura, acompanhamento e consulta de chamados, incluindo anexos e validações de dados.
+O desafio é criar um sistema de gerenciamento de chamados que utilize Inteligência Artificial (IA) para realizar a triagem automática.
+
+Nesse sistema, quando um usuário abrir um chamado, a IA fará a análise inicial e irá propor soluções inteligentes para a equipe de TI. Os profissionais poderão então validar, ajustar ou descartar essas sugestões, conforme julgarem necessário.
+
+Cada atendimento ficará registrado em um repositório central, garantindo histórico completo, transparência e possibilitando o aprendizado contínuo da IA. Esse repositório poderá ser consultado tanto pela equipe de TI quanto por administradores e pela própria inteligência artificial, servindo de base para futuras consultas, análises e apoio à tomada de decisões.
 
 ---
 
@@ -23,14 +27,20 @@ Acesse o backlog através do link abaixo:
 
 ---
 
+## 💡 Solução Proposta
+-  Priorização e Categorização de chamados por IA
+-  Capacidade da IA de propor soluções dos chamados para Equipe de TI
+-  Geração de relatórios mensais, semanais e anuais dos chamados
+-  Criação de Usuario pelo Admin
+
+---
+
 ## 🛠️ Tecnologias
 <div>
-  <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
-  </a>
-  <a href="https://astah.net/products/astah-uml/">
-    <img src="https://img.shields.io/badge/Astah_UML-2C2255?style=for-the-badge&logo=uml&logoColor=white" alt="Astah UML Badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
+  <img src="https://img.shields.io/badge/Astah_UML-2C2255?style=for-the-badge&logo=uml&logoColor=white" alt="Astah UML Badge"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Badge"/>
+  <img src="https://img.shields.io/badge/BR%20Modelo-005CFF?style=for-the-badge&logo=databricks&logoColor=white" alt="BR Modelo Badge"/>
 </div>
 
 ---
