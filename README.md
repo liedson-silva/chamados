@@ -9,29 +9,8 @@ O desafio consiste em criar um sistema completo de gerenciamento de chamados, di
 ---
 
 ## 📋 Backlog do Produto
-### 1. Gerenciamento de chamados
-```
-1. Abrir chamado:
-O usuário deve poder criar um chamado informando título, descrição, categoria e prioridade.
-O sistema deve permitir que o usuário revise os dados antes de enviar.
-O usuário pode anexar arquivos no momento da criação ou posteriormente, enquanto o chamado estiver ativo.
-
-2. Validação automática:
-Antes do envio, o sistema deve verificar se todos os campos obrigatórios estão preenchidos.
-Se algum campo estiver vazio, o chamado não pode ser enviado, e o usuário deve ser alertado.
-
-3. Adicionar anexos posteriormente:
-O usuário pode incluir novos arquivos em um chamado já criado, enquanto ele estiver aberto.
-
-4. Consultar chamados:
-O usuário pode visualizar os chamados de acordo com seu nível de acesso.
-A visualização deve incluir informações detalhadas, como título, descrição, categoria, prioridade, anexos e status.
-
-5. Histórico e acompanhamento:
-O sistema deve manter registro completo de cada chamado, incluindo alterações de status, atualizações e anexos adicionados.
-
-O usuário deve conseguir acompanhar a evolução de cada chamado.
-```
+Acesse o backlog através do link abaixo:  
+👉 [Backlog](https://github.com/liedson-silva/chamados/blob/main/Backlog.md)
 
 ---
 
@@ -45,7 +24,14 @@ O usuário deve conseguir acompanhar a evolução de cada chamado.
 ---
 
 ## 🛠️ Tecnologias
-- [Astah UML](https://astah.net "Ferramenta de modelagem visual")
+<div>
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
+  </a>
+  <a href="https://astah.net/products/astah-uml/">
+    <img src="https://img.shields.io/badge/Astah_UML-2C2255?style=for-the-badge&logo=uml&logoColor=white" alt="Astah UML Badge"/>
+  </a>
+</div>
 
 ---
 
