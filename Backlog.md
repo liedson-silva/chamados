@@ -1,3 +1,4 @@
+### 1. Gerenciamento de chamados
 | RANK | PRIORIDADE | USER STORY                                                                                                                             | REQUISITO DO CLIENTE | STATUS |
 | :--: | :--------: | :------------------------------------------------------------------------------------------------------------------------------------: | :------------------: | :----: | 
 |   1  |    ALTA    | O sistema deve permitir que o usuário crie um novo chamado, informando título, descrição, categoria e prioridade.                      |          R01         |   ❌   |
