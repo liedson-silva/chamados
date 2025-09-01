@@ -4,13 +4,18 @@
   <img src="./Docs/img/logoFatalSystem.png" alt="Screenshot do sistema" width="400"/>
 </div>
 
+[Desafio](#-desafio) | [Solução](#-solução) | [Backlog do Produto](#-backlog-do-produto) | [Tabela de Sprints](#-tabela-de-sprints) | [DoR](#-dor---definition-of-ready) | [DoD](#-dod---definition-of-done) | [Equipe](#-equipe) |
+
 
 ## 📌 Desafio
 O desafio é criar um sistema de gerenciamento de chamados que utilize Inteligência Artificial (IA) para realizar a triagem automática.
-
 Nesse sistema, quando um usuário abrir um chamado, a IA fará a análise inicial e irá propor soluções inteligentes para a equipe de TI. Os profissionais poderão então validar, ajustar ou descartar essas sugestões, conforme julgarem necessário.
-
 Cada atendimento ficará registrado em um repositório central, garantindo histórico completo, transparência e possibilitando o aprendizado contínuo da IA. Esse repositório poderá ser consultado tanto pela equipe de TI quanto por administradores e pela própria inteligência artificial, servindo de base para futuras consultas, análises e apoio à tomada de decisões.
+
+---
+
+## 💡 Solução
+O sistema utilizará **IA para priorizar e categorizar chamados**, além de **sugerir soluções automáticas** para apoio da equipe de TI. Também permitirá a **emissão de relatórios semanais, mensais e anuais** sobre o atendimento e contará com um módulo de **gerenciamento de usuários pelo administrador**.
 
 ---
 
@@ -29,12 +34,6 @@ Acesse o backlog através do link abaixo:
 
 ---
 
-## 💡 Solução Proposta
-O sistema utilizará **IA para priorizar e categorizar chamados**, além de **sugerir soluções automáticas** para apoio da equipe de TI. Também permitirá a **emissão de relatórios semanais, mensais e anuais** sobre o atendimento e contará com um módulo de **gerenciamento de usuários pelo administrador**.
-
-
----
-
 ## 🏃‍ DoR - Definition of Ready
 - Design no Figma
 - Diagramas e modelagem do sistema no Astah
@@ -42,6 +41,15 @@ O sistema utilizará **IA para priorizar e categorizar chamados**, além de **su
 - Modelagem do Banco de Dados no SQL Server
 
 ---
+
+## 🏆 DoD - Definition of Done
+
+- Funcionalidade testada e aprovada pelo time
+- Código revisado e versionado no GitHub
+- Documentação atualizada (código, uso e banco de dados)
+- Integração com IA validada
+- Sem bugs críticos ou impedimentos
+- Critérios de aceitação do backlog atendidos
 
 ## 🛠️ Tecnologias
 <div>
@@ -54,8 +62,8 @@ O sistema utilizará **IA para priorizar e categorizar chamados**, além de **su
 ---
 
 ## 🎓 Equipe
-| Nome                          | Papel         | GitHub                                    | LinkedIn                                                      |
-| ----------------------------- | ------------- |------------------------------------------ | ------------------------------------------------------------- |
-| Liedson De Oliveira Silva     | Desenvolvedor |[GitHub](https://github.com/liedson-silva) | [LinkedIn](https://linkedin.com/in/liedson-silva-20b78b295)   |
+| Nome                          | Papel         | GitHub                                                                                                                         | LinkedIn          |
+| ----------------------------- | ------------- |------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| Liedson De Oliveira Silva     | Desenvolvedor |[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/liedson-silva) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/liedson-silva-20b78b295) |
 
 ---
