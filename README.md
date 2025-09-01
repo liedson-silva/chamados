@@ -4,8 +4,11 @@
   <img src="./Docs/img/logoFatalSystem.png" alt="Screenshot do sistema" width="400"/>
 </div>
 
-[Desafio](#-desafio) | [Solução](#-solução) | [Backlog do Produto](#-backlog-do-produto) | [Tabela de Sprints](#-tabela-de-sprints) | [DoR](#-dor---definition-of-ready) | [DoD](#-dod---definition-of-done) | [Equipe](#-equipe) |
-
+<div align="center">
+  
+  [Desafio](#-desafio) | [Solução](#-solução) | [Backlog do Produto](#-backlog-do-produto) | [Tabela de Sprints](#-tabela-de-sprints) | [DoR](#-dor---definition-of-ready) | [DoD](#-dod---definition-of-done) |  [Tecnologias](#-tecnologias) | [Equipe](#-equipe) |
+  
+</div>
 
 ## 📌 Desafio
 O desafio é criar um sistema de gerenciamento de chamados que utilize Inteligência Artificial (IA) para realizar a triagem automática.
@@ -51,7 +54,9 @@ Acesse o backlog através do link abaixo:
 - Sem bugs críticos ou impedimentos
 - Critérios de aceitação do backlog atendidos
 
-## 🛠️ Tecnologias
+---
+
+## 🤖 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
   <img src="https://img.shields.io/badge/Astah_UML-2C2255?style=for-the-badge&logo=uml&logoColor=white" alt="Astah UML Badge"/>
