@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [Desafio](#-desafio) | [Solução](#-solução) | [Backlog do Produto](#-backlog-do-produto) | [Tabela de Sprints](#-tabela-de-sprints) | [DoR](#-dor---definition-of-ready) | [DoD](#-dod---definition-of-done) |  [Tecnologias](#-tecnologias) | [Equipe](#-equipe) |
+  [Desafio](#-desafio) | [Backlog do Produto](#-backlog-do-produto) | [Sprints](#-tabela-de-sprints) | [DoR](#-dor---definition-of-ready) | [DoD](#-dod---definition-of-done) |  [Tecnologias](#-tecnologias) | [Equipe](#-equipe) |
   
 </div>
 
@@ -17,11 +17,6 @@ Cada atendimento ficará registrado em um repositório central, garantindo hist�
 
 ---
 
-## 💡 Solução
-O sistema utilizará **IA para priorizar e categorizar chamados**, além de **sugerir soluções automáticas** para apoio da equipe de TI. Também permitirá a **emissão de relatórios semanais, mensais e anuais** sobre o atendimento e contará com um módulo de **gerenciamento de usuários pelo administrador**.
-
----
-
 ## 📋 Backlog do Produto
 Acesse o backlog através do link abaixo:  
 👉 [Backlog](https://github.com/liedson-silva/chamados/blob/main/Docs/Backlog.md)
@@ -29,11 +24,11 @@ Acesse o backlog através do link abaixo:
 ---
 
 ## 📅 Tabela de Sprints
-|    Período    | Link para Documentação | Link para Vídeo no YouTube |
-| ------------- | ---------------------- | -------------------------- |
-| yy/yy - yy/yy | [Sprint 1](#)          | [Vídeo 1](#)               |
-| yy/yy - yy/yy | [Sprint 2](#)          | [Vídeo 2](#)               |
-| yy/yy - yy/yy | [Sprint 3](#)          | [Vídeo 3](#)               |
+|    Período    |                            Documentação                        |       Link para Vídeo      |
+| ------------- | -------------------------------------------------------------- | -------------------------- |
+| 18/08 - 25/08 | [Sprint 1](https://github.com/liedson-silva/chamados/issues/1) | [Vídeo 1](#)               |
+| 25/08 - 01/09 | [Sprint 2](https://github.com/liedson-silva/chamados/issues/2) | [Vídeo 2](#)               |
+| 01/09 - 08/09 | [Sprint 3](https://github.com/liedson-silva/chamados/issues/3) | [Vídeo 3](#)               |
 
 ---
 
