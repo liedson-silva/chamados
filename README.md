@@ -27,12 +27,17 @@ Acesse o backlog através do link abaixo:
 |    Período    |                            Documentação                        |       Link para Vídeo      |
 | ------------- | -------------------------------------------------------------- | -------------------------- |
 | 18/08 - 25/08 | [Sprint 1](https://github.com/liedson-silva/chamados/issues/1) | [Vídeo 1](#)               |
-| 25/08 - 01/09 | [Sprint 2](https://github.com/liedson-silva/chamados/issues/2) | [Vídeo 2](#)               |
-| 01/09 - 08/09 | [Sprint 3](https://github.com/liedson-silva/chamados/issues/3) | [Vídeo 3](#)               |
+| 26/08 - 02/09 | [Sprint 2](https://github.com/liedson-silva/chamados/issues/2) | [Vídeo 2](#)               |
+| 03/09 - 10/09 | [Sprint 3](https://github.com/liedson-silva/chamados/issues/3) | [Vídeo 3](#)               |
+| 11/09 - 18/09 | [Sprint 4](https://github.com/liedson-silva/chamados/issues/4) | [Vídeo 4](#)               |
+| 19/09 - 26/09 | [Sprint 5](https://github.com/liedson-silva/chamados/issues/5) | [Vídeo 5](#)               |
+| 27/09 - 04/10 | [Sprint 6](https://github.com/liedson-silva/chamados/issues/6) | [Vídeo 6](#)               |
+| 05/10 - 12/10 | [Sprint 7](https://github.com/liedson-silva/chamados/issues/7) | [Vídeo 7](#)               |
+| 13/10 - 20/10 | [Sprint 8](https://github.com/liedson-silva/chamados/issues/8) | [Vídeo 8](#)               |
 
 ---
 
-## 🏃‍ DoR - Definition of Ready
+## 🏆 DoR - Definition of Ready
 - Design no Figma
 - Diagramas e modelagem do sistema no Astah
 - Diagrama de estruturação do Banco de Dados no Br Modelo
