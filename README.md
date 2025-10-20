@@ -24,19 +24,24 @@ Acesse o backlog através do link abaixo:
 ---
 
 ## 📅 Tabela de Sprints
-|    Período    |                            Documentação                        |       Link para Vídeo      |
-| ------------- | -------------------------------------------------------------- | -------------------------- |
-| 08/09 - 14/09 | [Sprint 1](https://github.com/liedson-silva/chamados/issues/1) | [Vídeo 1](#)               |
-| 15/09 - 21/09 | [Sprint 2](https://github.com/liedson-silva/chamados/issues/2) | [Vídeo 2](#)               |
-| 22/09 - 28/09 | [Sprint 3](https://github.com/liedson-silva/chamados/issues/3) | [Vídeo 3](#)               |
-| 29/09 - 05/10 | [Sprint 4](https://github.com/liedson-silva/chamados/issues/4) | [Vídeo 4](#)               |
-| 06/10 - 12/10 | [Sprint 5](https://github.com/liedson-silva/chamados/issues/5) | [Vídeo 5](#)               |
-| 13/10 - 19/10 | [Sprint 6](https://github.com/liedson-silva/chamados/issues/6) | [Vídeo 6](#)               |
-| 20/10 - 26/10 | [Sprint 7](https://github.com/liedson-silva/chamados/issues/7) | [Vídeo 7](#)               |
-| 27/10 - 02/11 | [Sprint 8](https://github.com/liedson-silva/chamados/issues/8) | [Vídeo 8](#)               |
-| 03/11 - 09/11 | [Sprint 9](https://github.com/liedson-silva/chamados/issues/9) | [Vídeo 9](#)               |
-| 10/11 - 14/11 | [Sprint 10](https://github.com/liedson-silva/chamados/issues/10) | [Vídeo 10](#)               |
+|    Período    |                            Documentação                        |
+| ------------- | -------------------------------------------------------------- |
+| 08/09 - 14/09 | [SPRINT 1](https://github.com/liedson-silva/chamados/issues/1) |
+| 15/09 - 21/09 | [SPRINT 2](https://github.com/liedson-silva/chamados/issues/2) |
+| 22/09 - 28/09 | [SPRINT 3](https://github.com/liedson-silva/chamados/issues/3) |
+| 29/09 - 05/10 | [SPRINT 4](https://github.com/liedson-silva/chamados/issues/4) |
+| 06/10 - 12/10 | [SPRINT 5](https://github.com/liedson-silva/chamados/issues/5) |
+| 13/10 - 19/10 | [SPRINT 6](https://github.com/liedson-silva/chamados/issues/6) | 
+| 20/10 - 26/10 | [SPRINT 7](https://github.com/liedson-silva/chamados/issues/7) |
+| 27/10 - 02/11 | [SPRINT 8](https://github.com/liedson-silva/chamados/issues/8) |
+| 03/11 - 09/11 | [SPRINT 9](https://github.com/liedson-silva/chamados/issues/9) | 
+| 10/11 - 14/11 | [SPRINT 10](https://github.com/liedson-silva/chamados/issues/10) |
 
+---
+## Como Executar o Projeto
+- x
+- x
+- x
 ---
 
 ## 🏆 DoR - Definition of Ready
@@ -64,6 +69,9 @@ Acesse o backlog através do link abaixo:
   <img src="https://img.shields.io/badge/Astah_UML-2C2255?style=for-the-badge&logo=uml&logoColor=white" alt="Astah UML Badge"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Badge"/>
   <img src="https://img.shields.io/badge/BR%20Modelo-005CFF?style=for-the-badge&logo=databricks&logoColor=white" alt="BR Modelo Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Badge"/>
 </div>
 
 ---
