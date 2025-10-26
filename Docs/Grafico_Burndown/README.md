@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./Docs/Grafico_Burndown.png" alt="Screenshot da evolução do projeto" width="500"/>
+  <img src="./Grafico_Burndown.png" alt="Screenshot da evolução do projeto" width="500"/>
 </div>
