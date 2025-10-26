@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [Desafio](#-desafio) | [Backlog do Produto](#-backlog-do-produto) | [Sprints](#-tabela-de-sprints) | [DoR](#-dor---definition-of-ready) | [DoD](#-dod---definition-of-done) |  [Tecnologias](#-tecnologias) | [Equipe](#-equipe) |
+  [Desafio](#-desafio) | [Backlog do Produto](#-backlog-do-produto) | [Evolução do projeto](#-evolução-do-projeto) | [Sprints](#-tabela-de-sprints) | [DoR](#-dor---definition-of-ready) | [DoD](#-dod---definition-of-done) |  [Tecnologias](#-tecnologias) | [Equipe](#-equipe) |
   
 </div>
 
@@ -20,6 +20,12 @@ Cada atendimento ficará registrado em um repositório central, garantindo hist�
 ## 📋 Backlog do Produto
 Acesse o backlog através do link abaixo:  
 👉 [Backlog](https://github.com/liedson-silva/chamados/blob/main/Docs/Backlog.md)
+
+---
+
+## 📈 Evolução do projeto
+Acesse o gráfico burndown através do link abaixo:  
+👉 [Burndown](https://github.com/liedson-silva/chamados/blob/main/Docs/Grafico_Burndown.xlsx)
 
 ---
 
@@ -37,11 +43,6 @@ Acesse o backlog através do link abaixo:
 | 03/11 - 09/11 | [SPRINT 9](https://github.com/liedson-silva/chamados/issues/9) | 
 | 10/11 - 14/11 | [SPRINT 10](https://github.com/liedson-silva/chamados/issues/10) |
 
----
-## Como Executar o Projeto
-- x
-- x
-- x
 ---
 
 ## 🏆 DoR - Definition of Ready
