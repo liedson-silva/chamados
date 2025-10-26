@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [Desafio](#-desafio) | [Backlog do Produto](#-backlog-do-produto) | [Evolução do projeto](#-evolução-do-projeto) | [Sprints](#-tabela-de-sprints) | [DoR](#-dor---definition-of-ready) | [DoD](#-dod---definition-of-done) |  [Tecnologias](#-tecnologias) | [Equipe](#-equipe) |
+  [Desafio](#-desafio) | [Backlog do Produto](#-backlog-do-produto) | [Evolução do projeto](#-evolução-do-projeto) | [Sprints](#-tabela-de-sprints) | [DoR](#-dor---definition-of-ready) | [DoD](#-dod---definition-of-done) | [Manual de Instalação](#-manual-de-instalação) |  [Tecnologias](#-tecnologias) | [Equipe](#-equipe) |
   
 </div>
 
@@ -63,15 +63,25 @@ Acesse o backlog através do link abaixo:
 
 ---
 
+## 📖 Manual de instalação
+
+- Instale o Astah Viewer ( [Download](https://astah.net/products/astah-viewer) ).
+- Navegue até a localização do arquivo do diagrama ( [Diagramas](https://github.com/liedson-silva/chamados/blob/main/Docs/Diagramas_chamados.asta) ).
+- Clique no arquivo e, de seguida, clique no botão **"Raw"** ou **"Download"** para guardar o ficheiro no seu computador.
+- Abra o **Astah Viewer**.
+- No menu, selecione **"File" (Ficheiro)** e, de seguida, **"Open" (Abrir)**.
+- Selecione o ficheiro **`.asta`** que descarregou do GitHub.
+
+Agora pode visualizar e navegar por todos os diagramas do projeto!
+
+---
+
 ## 🤖 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
   <img src="https://img.shields.io/badge/Astah_UML-2C2255?style=for-the-badge&logo=uml&logoColor=white" alt="Astah UML Badge"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Badge"/>
   <img src="https://img.shields.io/badge/BR%20Modelo-005CFF?style=for-the-badge&logo=databricks&logoColor=white" alt="BR Modelo Badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Badge"/>
 </div>
 
 ---
