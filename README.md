@@ -24,8 +24,7 @@ Acesse o backlog através do link abaixo:
 ---
 
 ## 📈 Evolução do projeto
-Acesse o gráfico burndown através do link abaixo:  
-👉 [Burndown](https://github.com/liedson-silva/chamados/blob/main/Docs/Grafico_Burndown.xlsx)
+  <img src="./Docs/img/Grafico_Burndown.png" alt="Screenshot do gráfico burndown" width="400"/>
 
 ---
 
