@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [Descrição do Desafio](#-descrição-do-desafio) | [Backlog do Produto](#-backlog-do-produto) | [Cronograma de Evolução do projeto](#-cronograma-de-evolução-do-projeto) | [Tabela das Sprints](#-tabela-das-sprints) |   [Tecnologias Utilizadas](#-tecnologias-utilizadas) | [Estrutura do Projeto](#-estrutura-do-projeto) | [Manual de instalação](#-manual-de-instalação) | [Equipe](#-equipe) | [DoR e DoD](#-dor-e-dod) 
+  [Descrição do Desafio](#-descrição-do-desafio) | [Backlog do Produto](#-backlog-do-produto) | [Cronograma de Evolução do projeto](#-cronograma-de-evolução-do-projeto) | [Tabela das Sprints](#-tabela-das-sprints) |   [Tecnologias Utilizadas](#-tecnologias-utilizadas) | [Estrutura do Projeto](#-estrutura-do-projeto) | [Executar o Projeto](#-como-executar-usar-e-testar-o-projeto) | [Equipe](#-equipe) | [DoR e DoD](#-dor-e-dod) | [Manual de Usuário](#-manual-de-usuário)
   
 </div>
 
@@ -47,9 +47,9 @@ Acesse a estrutura do projeto através do link abaixo:
 
 ---
 
-## 📖 Manual de instalação
-Acesse o manual de instalação através do link abaixo:  
-👉 [Manual de instalação](https://github.com/liedson-silva/chamados/blob/main/Docs/Manual%20de%20instalação.md)
+## 📖 Como executar, usar e testar o projeto
+Acesse-o através do link abaixo:  
+👉 [Executar Projeto](https://github.com/liedson-silva/chamados/blob/main/Docs/Manual%20de%20instalação.md)
 
 ---
 
@@ -62,3 +62,11 @@ Acesse a equipe através do link abaixo:
 ## 🏆 DoR e DoD
 Acesse o DoR e DoD através do link abaixo:  
 👉 [DoR e DoD](https://github.com/liedson-silva/chamados/blob/main/Docs/DoR%20e%20DodD.md)
+
+---
+
+## 📖 Manual de Usuário
+Acesse o manual de Usuário através do link abaixo:  
+👉 [Manual de Usuário](https://github.com/liedson-silva/chamados/blob/main/Docs/Manual%20de%20instalação.md)
+
+---
